@@ -1,3 +1,3 @@
-[Preview](https://victance.github.io/ToDo-App/)
+[Preview](https://victance.github.io/react-toDo-app/)
 
 Technologies: React, TypeScript, CSS
